@@ -1,2 +1,2 @@
 # IDVI
-Inverted Document Vector Index(IDVI) for Searching Context Search
+Inverted Document Vector Index(IDVI) for Context Search
